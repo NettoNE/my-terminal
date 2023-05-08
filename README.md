@@ -14,7 +14,7 @@ sudo apt install fonts-jetbrains-mono
 Just put 'kitty.conf' on '~/.config/kitty/kitty.conf'
 
 ```
-# OH MY BASH 
+## OH MY BASH 
 
 ### Install
 https://ohmybash.nntoan.com/
